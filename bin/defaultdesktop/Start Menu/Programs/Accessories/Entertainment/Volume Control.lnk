@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Volume Control
+Command=volume_control
+Startin=
+Icon=volume_control.png
+Comment=
+

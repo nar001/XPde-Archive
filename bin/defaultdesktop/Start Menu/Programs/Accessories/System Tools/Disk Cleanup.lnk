@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Disk Cleanup
+Command=disk_cleanup
+Startin=
+Icon=disk_cleanup.png
+Comment=
+

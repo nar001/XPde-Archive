@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Internet Browser
+Command=mozilla
+Startin=
+Icon=browser.png
+Comment=
+

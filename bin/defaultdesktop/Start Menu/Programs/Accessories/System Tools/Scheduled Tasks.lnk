@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Scheduled Tasks
+Command=scheduled_tasks
+Startin=
+Icon=scheduled_tasks.png
+Comment=
+

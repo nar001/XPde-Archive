@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=New Connection Wizard
+Command=new_connection_wizard
+Startin=
+Icon=new_connection_wizard.png
+Comment=
+

@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=MPlayer
+Command=mplayer
+Startin=
+Icon=mplayer.png
+Comment=
+

@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=HyperTerminal
+Command=hyperterminal
+Startin=
+Icon=hyperterminal.png
+Comment=
+

@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Command Prompt
+Command=xterm
+Startin=
+Icon=command_prompt.png
+Comment=
+

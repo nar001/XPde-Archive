@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Remote Desktop Connection
+Command=remote_desktop_connection
+Startin=
+Icon=remote_desktop_connection.png
+Comment=
+

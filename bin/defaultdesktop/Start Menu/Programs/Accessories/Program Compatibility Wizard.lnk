@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Program Compatibility Wizard
+Command=compatibility_wizard
+Startin=
+Icon=compatibility_wizard.png
+Comment=
+

@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Disk Defragmenter
+Command=disk_defragmenter
+Startin=
+Icon=disk_defragmenter.png
+Comment=
+

@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Network Setup Wizard
+Command=network_setup_wizard
+Startin=
+Icon=network_setup_wizard.png
+Comment=
+

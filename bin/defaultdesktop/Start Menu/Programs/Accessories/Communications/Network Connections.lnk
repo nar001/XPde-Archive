@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Network Connections
+Command=network_connections
+Startin=
+Icon=network_connections.png
+Comment=
+

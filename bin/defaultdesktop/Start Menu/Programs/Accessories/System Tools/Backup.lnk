@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=Backup
+Command=backup
+Startin=
+Icon=backup.png
+Comment=
+

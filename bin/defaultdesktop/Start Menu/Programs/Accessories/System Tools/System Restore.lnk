@@ -1,0 +1,7 @@
+[Shortcut]
+Caption=System Restore
+Command=system_restore
+Startin=
+Icon=system_restore.png
+Comment=
+
